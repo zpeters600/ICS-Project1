@@ -13,11 +13,12 @@
 }
 
 .line {
-	border-left: 1px solid #4A3416; 
+ 	border-left: 1px solid #4A3416;
 }
 
 table {
-	border: none
+	border: none;
+	padding: 10px
 }
 
 .heading2 {
@@ -31,7 +32,7 @@ table {
 }
 
 div img {
-	padding: 10px 10px 10px 10px;
+	padding: 17px 10px 10px 10px;
 	float: left;
 	border: none;
 }
@@ -60,9 +61,12 @@ img {
 	font-size: 14px;
 	font-family: Helvetica;
 	color: #4A3416;
-	padding: 15px;
+	padding: 7px;
 }
 
 a {
 	text-decoration: none;
+	font-family: Helvetica;
+	font-size: 14px;
+	color: #4A3416;
 }
