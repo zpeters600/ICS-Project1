@@ -1,0 +1,68 @@
+.heading {
+	background-color: #EFEFEF;
+	font-family: Georgia;
+	color: #F14A29;
+}
+
+#title {
+	font-size: 40px;
+	font-family: Georgia;
+	color: #F14A29;
+	background-color: #EFEFEF;
+	
+}
+
+.line {
+	border-left: 1px solid #4A3416; 
+}
+
+table {
+	border: none
+}
+
+.heading2 {
+	font-family: Helvetica;
+}
+
+.text {
+	font-size: 14px;
+	font-family: Helvetica;
+	color: #4A3416;
+}
+
+div img {
+	padding: 10px 10px 10px 10px;
+	float: left;
+	border: none;
+}
+
+div {
+	background-color: #FAFAFA;
+	height: 70px;
+}
+
+.special {
+	border: 1px dashed #DEDEDE;
+	margin: 20px;
+}
+
+.special2 {
+	border: 1px dashed #DEDEDE;
+	margin: 20px;
+}
+
+img {
+	border: 1px solid #4A3416;
+	padding: 10px;
+}
+
+.text2 {
+	font-size: 14px;
+	font-family: Helvetica;
+	color: #4A3416;
+	padding: 15px;
+}
+
+a {
+	text-decoration: none;
+}
